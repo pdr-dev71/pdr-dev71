@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João pedro - (@pdr-dev71)
 - 👀 I’m interested in hardware, sofware and lecture
-- 🌱 I’m currently learning node.js, express and javascript technologies
+- 🌱 I’m currently learning dart, flutter and mobile technologies
 - 📫 How to reach me ...
 
 <!---
