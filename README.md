@@ -1,4 +1,4 @@
-## Opa! Sou o João Pedro
+## Opa! Sou João Pedro entusiasta de hardware e programação mobile
 
 <div>
   <a href="https://github.com/pdr-dev71">
