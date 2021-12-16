@@ -1,8 +1,9 @@
 ## Opa! Sou o João Pedro
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-dev71"/>
-  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-dev71"/>
+  <a href="https://github.com/pdr-dev71">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-dev71&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-dev71&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
